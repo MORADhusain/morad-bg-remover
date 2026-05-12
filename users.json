@@ -1,0 +1,11 @@
+{
+  "allowed_users": {
+    "admin_id_001": {
+      "status": "active",
+      "count": 0,
+      "role": "admin"
+    }
+  },
+  "pending_requests": {},
+  "blocked_users": {}
+}
